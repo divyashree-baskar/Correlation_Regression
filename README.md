@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+# Name: Divyashree B
+# Register no: 212224040081
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
